@@ -133,19 +133,19 @@
 }
 
 #benefit-1 {
-  background-image: url("../img/hd1.jpg");
+  background-image: url("img/hd1.jpg");
 }
 
 #benefit-2 {
-  background-image: url("../img/hd2.jpg");
+  background-image: url("img/hd2.jpg");
 }
 
 #benefit-3 {
-  background-image: url("../img/hd3.jpg");
+  background-image: url("img/hd3.jpg");
 }
 
 #location {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("../img/hd1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("img/hd1.jpg");
   background-position: center;
   background-size: cover;
   padding: 2em;
@@ -212,7 +212,7 @@
 }
 
 #cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url("../img/moto6.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url("img/moto6.jpg");
   background-position: center;
   background-size: cover;
   padding: 2em;
