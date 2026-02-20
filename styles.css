@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
+  --primary: #d62d2d; /* Vermelho Harley-Davidson */
+  --secondary: #f5f5f5; /* Cinza claro */
+  --text-color: #fff; /* Branco */
   --text-secondary: #000;
   --text-tertiary: #5d5d5d;
 }
@@ -13,7 +16,7 @@
 }
 
 #event-subscription {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("../img/moto5.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("img/moto5.jpg");
   background-position: center;
   background-size: cover;
   padding: 2em;
@@ -137,15 +140,15 @@
 }
 
 #benefit-2 {
-  background-image: url("img/hd2.jpg");
+  background-image: url("img/hd2.jpg"); /* Agora existe! */
 }
 
 #benefit-3 {
-  background-image: url("img/hd3.jpg");
+  background-image: url("img/hd3.jpg"); /* Agora existe! */
 }
 
 #location {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("img/hd1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("img/moto1.jpg"); /* Mudado para moto1.jpg */
   background-position: center;
   background-size: cover;
   padding: 2em;
